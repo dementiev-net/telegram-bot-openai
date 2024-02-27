@@ -1,0 +1,12 @@
+{
+  "VERSION": "1.1.0",
+  "MONGO_URI": "example",
+  "TOKEN": "example",
+  "OPEN_AI_KEY": "example",
+  "OPEN_BASE_URL": "example",
+  "MODEL_CHAT_GPT": "gpt-4-0125-preview",
+  "MODEL_CHAT_GPT_AUDIO": "whisper-1",
+  "MODEL_CHAT_GPT_IMAGE": "dall-e-3",
+  "MODEL_CHAT_GPT_IMAGE_SIZE": "1024x1024",
+  "ADMIN_ID": "example"
+}
